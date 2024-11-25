@@ -1,0 +1,80 @@
+{
+  "videos": [
+    {
+      "caption": "100 Days of Solo Travel in 3 Minutes",
+      "imgURL": "https://i.ytimg.com/vi/RSJF-LpjweY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC7HLYadxGALn-CDF-nfynAdW30_w",
+      "embedLink": "https://www.youtube.com/embed/RSJF-LpjweY",
+      "id": 3
+    },
+    {
+      "caption": "How To Build The Future: Sam Altman",
+      "imgURL": "https://i.ytimg.com/vi/xXCBz_8hM9w/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/xXCBz_8hM9w",
+      "id": 4
+    },
+    {
+      "caption": "6 things you probably need to hear",
+      "imgURL": "https://i.ytimg.com/vi/2jWN-pMTf3o/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/2jWN-pMTf3o",
+      "id": 5
+    },
+    {
+      "caption": "The $0 Home Server",
+      "imgURL": "https://i.ytimg.com/vi/IuRWqzfX1ik/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUnw9H9pisZ1RE4di16heQ-rgVbA",
+      "embedLink": "https://www.youtube.com/embed/IuRWqzfX1ik",
+      "id": 6
+    },
+    {
+      "caption": "Is freelancing better than full-time? | De-influencing",
+      "imgURL": "https://i.ytimg.com/vi/9FITS4stuMg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAXUIKP2ONONBp25eQrocpZ9wXXgg",
+      "embedLink": "https://www.youtube.com/embed/9FITS4stuMg",
+      "id": 7
+    },
+    {
+      "caption": "How does ChatGPT work? Explained by Deep-Fake Ryan Gosling.",
+      "imgURL": "https://i.ytimg.com/vi/xU_MFS_ACrU/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/xU_MFS_ACrU",
+      "id": 8
+    }
+  ],
+  "history": [
+    {
+      "caption": "100 Days of Solo Travel in 3 Minutes",
+      "url": "https://www.youtube.com/embed/RSJF-LpjweY",
+      "timeStamp": "25/11/2024, 11:59:51",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "category": "Travel",
+      "allVideos": [
+        {
+          "caption": "The $0 Home Server",
+          "imgURL": "https://i.ytimg.com/vi/IuRWqzfX1ik/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUnw9H9pisZ1RE4di16heQ-rgVbA",
+          "embedLink": "https://www.youtube.com/embed/IuRWqzfX1ik",
+          "id": 6
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "AI",
+      "allVideos": [
+        {
+          "caption": "The $0 Home Server",
+          "imgURL": "https://i.ytimg.com/vi/IuRWqzfX1ik/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUnw9H9pisZ1RE4di16heQ-rgVbA",
+          "embedLink": "https://www.youtube.com/embed/IuRWqzfX1ik",
+          "id": 6
+        },
+        {
+          "caption": "6 things you probably need to hear",
+          "imgURL": "https://i.ytimg.com/vi/2jWN-pMTf3o/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/2jWN-pMTf3o",
+          "id": 5
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
